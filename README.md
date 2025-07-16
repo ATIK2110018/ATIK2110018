@@ -49,9 +49,6 @@ Chittagong University of Engineering and Technology (CUET)
 
 📧 [atikrahman282@gmail.com](mailto:atikrahman282@gmail.com)  
 📱 +8801786914973  
-🔗 [LinkedIn](https://linkedin.com/in/yourusername)  
-🔗 [GitHub](https://github.com/ATIK2110018)
+🔗 [LinkedIn](https://linkedin.com/in/atikur-rahman-2110018--)  
 
 ---
-
-*Let’s connect and collaborate on data-driven water and environmental research!*
