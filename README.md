@@ -1,3 +1,5 @@
+<img align="right" width="150" src="https://avatars.githubusercontent.com/u/127790936?v=4" alt="Md Atikur Rahman" />
+
 <div align="center">
 
 # Hi, I'm Md Atikur Rahman 👋
